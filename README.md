@@ -15,7 +15,13 @@
   - 👨‍🏫 I'm a Computer science Engineer by <a href = "https://www.uc3m.es/Inicio"> UC3M </a>.
   - 🎓 I'm studying a Double Master in Computer Science Engineering and Cybersecuirty at UC3M, Madrid. I'm expecting to graduate in 2022.
   - 🎯 I recently achieved <a href="https://www.credential.net/813c5491-86e4-4f87-a870-796dc3305a63#gs.txgpiy">Google tensorflow certificate</a>. ![100%](https://progress-bar.dev/100)
+
+<div>
+<p align="center">
+
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/28951216" alt="cplusplus" width="50" height="50"/> 
+
+</div>
   - 📧 You can reach me at: luisibanezlissen@gmail.com
 
 <p>&nbsp;</p>
@@ -25,7 +31,7 @@
 ## 👨🏻‍💻 My Languages/Tools:
 <div>
 <p align="center">
-https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/28951216
+
 <img src="https://github.com/Luisibear98/Luisibear98/blob/main/Misc/image%20backups/homeycombs/C++.svg" alt="cplusplus" width="50" height="50"/> 
 <img src="https://github.com/Luisibear98/Luisibear98/blob/main/Misc/image%20backups/homeycombs/Python.png" alt="python" width="57" height="55"/> 
 <img src="https://github.com/Luisibear98/Luisibear98/blob/main/Misc/image%20backups/homeycombs/JAVA.png" alt="JAVA" width="57" height="55"/> 
