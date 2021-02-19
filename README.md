@@ -1,4 +1,4 @@
-<img src="https://github.com/Luisibear98/Luisibear98/blob/main/luis.gif" width=50%  align="left"/>
+<img src="https://github.com/Luisibear98/Luisibear98/blob/main/luis.gif" width=100% height="50%" align="left"/>
 
 <!--**SABERGLOW/SABERGLOW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <p>&nbsp;</p>
