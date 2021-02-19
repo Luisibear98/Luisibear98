@@ -1,4 +1,4 @@
-### Hi there 👋
+[![HitCount](http://hits.dwyl.com/Luisibear98/https://githubcom/Luisibear98/Luisibear98.svg)](http://hits.dwyl.com/Luisibear98/https://githubcom/Luisibear98/Luisibear98)
 
 <!--
 **Luisibear98/Luisibear98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
