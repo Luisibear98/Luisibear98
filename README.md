@@ -20,7 +20,7 @@
 ## 👨🏻‍💻 My Languages/Tools:
 <div>
 <p align="center">
-<img src="https://github.com/Luisibear98/Luisibear98/blob/master/Misc/image%20backups/homeycombs/C.svg" alt="c" width="50" height="50"/> 
+<img src="https://github.com/Luisibear98/Luisibear98/blob/main/Misc/image%20backups/homeycombs/C.svg" alt="c" width="50" height="50"/> 
 <img src="https://github.com/Luisibear98/Luisibear98/blob/main/Misc/image%20backups/homeycombs/C++.svg" alt="cplusplus" width="50" height="50"/> 
 <img src="https://github.com/Luisibear98/Luisibear98/blob/main/Misc/image%20backups/homeycombs/Python.png" alt="python" width="57" height="55"/> 
 <img src="https://github.com/Luisibear98/Luisibear98/blob/main/Misc/image%20backups/homeycombs/JAVA.png" alt="JAVA" width="57" height="55"/> 
