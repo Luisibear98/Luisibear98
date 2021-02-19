@@ -9,7 +9,7 @@
   - 👨‍💻 I'm a Cybersecurity engineer Intern at <a href = "http://www.bitcorp.it/"> BitCorp Creative Labs </a>.
   - 👨‍🏫 I'm a Computer science Engineer by <a href = "https://www.uc3m.es/Inicio"> UC3M </a>.
   - 🎓 I'm studying a Double Master in Computer Science Engineering and Cybersecuirty at UC3M, Madrid. I'm expecting to graduate in 2022.
-  - 🎯 I'm recently achieved <a href="https://www.credential.net/813c5491-86e4-4f87-a870-796dc3305a63#gs.txgpiy">Google tensorflow certificate</a>. ![100%](https://progress-bar.dev/100)
+  - 🎯 I recently achieved <a href="https://www.credential.net/813c5491-86e4-4f87-a870-796dc3305a63#gs.txgpiy">Google tensorflow certificate</a>. ![100%](https://progress-bar.dev/100)
 
   - 📧 You can reach me at: luisibanezlissen@gmail.com
 
