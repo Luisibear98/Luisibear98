@@ -21,7 +21,7 @@
 <div>
 <p align="center">
 <img src="https://github.com/Luisibear98/Luisibear98/blob/master/Misc/image%20backups/homeycombs/C.svg" alt="c" width="50" height="50"/> 
-<img src="https://github.com/Luisibear98/Luisibear98/blob/master/Misc/image%20backups/homeycombs/C%2B%2B.svg" alt="cplusplus" width="50" height="50"/> 
+<img src="https://github.com/Luisibear98/Luisibear98/blob/main/Misc/image%20backups/homeycombs/C++.svg" alt="cplusplus" width="50" height="50"/> 
 <img src="https://github.com/Luisibear98/Luisibear98/blob/master/Misc/image%20backups/homeycombs/Python.png" alt="python" width="57" height="55"/> 
 <img src="https://github.com/Luisibear98/Luisibear98/blob/master/Misc/image%20backups/homeycombs/JAVA.png" alt="JAVA" width="57" height="55"/> 
 <img src="https://github.com/Luisibear98/Luisibear98/blob/master/Misc/image%20backups/homeycombs/SQL.png" alt="SQL" width="57" height="55"/> 
