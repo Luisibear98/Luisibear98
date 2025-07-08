@@ -10,12 +10,16 @@
 <p>&nbsp;</p>
 
 ## 📚 About Me:
-<a href="https://github.com/Luisibear98/"><img align="right" width="350" height="263" src="https://github.com/Luisibear98/Luisibear98/blob/main/giphy.gif"></a>
-  - 👨‍💻 I'm a Cybersecurity engineer Intern at <a href = "http://www.bitcorp.it/"> BitCorp Creative Labs </a>.
-  - 👨‍🏫 I'm a Computer science Engineer by <a href = "https://www.uc3m.es/Inicio"> UC3M </a>.
-  - 🎓 I'm studying a Double Master in Computer Science Engineering and Cybersecuirty at UC3M, Madrid. I'm expecting to graduate in 2022.
-  - 🎯 I recently achieved <a href="https://www.credential.net/813c5491-86e4-4f87-a870-796dc3305a63#gs.txgpiy">Google tensorflow certificate</a>. ![100%](https://progress-bar.dev/100)
-
+<ul>
+  <li>🧠 I'm a <strong>PhD Researcher in AI Safety</strong> at <a href="https://www.uc3m.es/">UC3M</a>, collaborating with <strong>INRIA Paris</strong> and the <strong>University of Cambridge</strong>.</li>
+  <li>🎓 I hold a <strong>BSc in Computer Science Engineering</strong> and a <strong>Double MSc in Computer Science & Cybersecurity</strong> from <strong>UC3M, Madrid</strong>.</li>
+  <li>🛡️ I’ve worked on <strong>LLM compression</strong>, <strong>membership inference attacks</strong>, and <strong>steganographic signals in chain-of-thought prompting</strong>.</li>
+  <li>💡 I'm especially interested in: <code>Privacy</code>, <code>AI Alignment</code>, <code>LLM Steering</code>, and <code>Model Optimization</code>.</li>
+  <li>🏆 I've won several national hackathons on machine learning and AI.</li>
+  <li>🇯🇵 I spent one year in Tokyo as a researcher through the <strong>Vulcanus in Japan</strong> program.</li>
+  <li>🏄 I’m also a sponsored <strong>longboard rider</strong>, sharing my passion for skating and tech.</li>
+  <li>📨 You can reach me at: <strong>luisibanezlissen@gmail.com</strong></li>
+</ul>
 <div>
 <p align="center">
 
