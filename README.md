@@ -23,10 +23,8 @@
 <div>
 <p align="center">
 
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/28951216" alt="cplusplus" width="50" height="50"/> 
 
 </div>
-  - 📧 You can reach me at: luisibanezlissen@gmail.com
 
 <p>&nbsp;</p>
 
